@@ -1,3 +1,38 @@
 .title{
   background-color: antiquewhite;
+  height:100px;
+}
+
+.title h1{
+  font-weight: 100;
+  text-align: center;
+  line-height: 100px;
+}
+
+#result{
+  text-align: center;
+  margin-top:5%;
+  text-decoration: underline;
+  font-size: 30px;
+  color:red;
+}
+
+#result p{
+  margin-bottom:1%;
+
+}
+
+#word-space{
+  background-color: #FFF;
+  border:1px solid black;
+  font-weight: 300;
+  font-size: 80px;
+  text-align: center;
+  width:80%;
+  margin: 0 auto 1%;
+}
+
+#keyboard{
+  margin:0 auto;
+  margin:0 10%;
 }
